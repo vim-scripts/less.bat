@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2244
+
+Makes Vim into a rewindable, syntax-highlighting, searchable pager on Windows.
+
+Based upon less.sh from the macros directory of the Vim distribution.
+Requires that macros/less.vim exist in the &runtimepath.
+Works with pipes as well as file names.
